@@ -1,2 +1,2 @@
-# Dice-game
-This is a dice game made using intermediate level javascript.
+
+This is a simon game made using javascript & jquery.
